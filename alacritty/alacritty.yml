@@ -1,0 +1,8 @@
+window:
+  padding: 
+    x: 15
+    y: 15
+  opacity: .8
+font:
+  normal:
+    family: CaskaydiaCove Nerd Font
